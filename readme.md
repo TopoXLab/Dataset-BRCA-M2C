@@ -1,5 +1,5 @@
 # TCGA Breast Cancer Cell Classification Dataset #
-This dataset accompanies our paper "Multi-Class Cell Detection Using Spatial Context Representation", ICCV 2021. See citation at the end.
+This dataset accompanies our paper [Multi-Class Cell Detection Using Spatial Context Representation, ICCV 2021](https://arxiv.org/pdf/2110.04886.pdf). See citation at the end.
 
 <p align="center"> 
 <img src="./teaser2.jpg" alt="drawing" width="100%"  />
